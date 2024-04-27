@@ -36,9 +36,9 @@ This project provides a Python script to interact with a MongoDB database contai
 
 ## Usage
 1. Ensure that MongoDB is running.
-2. Run the `interact_with_db.py` script with Python:
+2. Run the `LOL_DB.py` script with Python:
    ```bash
-   python interact_with_db.py
+   python LOL_DB.py
    ```
 3. Follow the prompts to interact with the database:
    - Get Match History
