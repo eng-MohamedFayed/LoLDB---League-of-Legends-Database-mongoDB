@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "65637a983179c288178e307d"
+  },
+  "matchId": 1,
+  "date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "duration": "25:30",
+  "result": "Victory",
+  "summonerName": "FrostQueen97",
+  "champion": "Ahri",
+  "kills": 10,
+  "deaths": 2,
+  "assists": 15,
+  "KillDeathPercent": 5
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e307e"
+  },
+  "matchId": 2,
+  "date": {
+    "$date": "2023-10-28T00:00:00.000Z"
+  },
+  "duration": "30:45",
+  "result": "Defeat",
+  "summonerName": "ShadowBladeMaster",
+  "champion": "Yasuo",
+  "kills": 7,
+  "deaths": 8,
+  "assists": 6,
+  "KillDeathPercent": 0.875
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e307f"
+  },
+  "matchId": 3,
+  "date": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "duration": "28:20",
+  "result": "Victory",
+  "summonerName": "NinjaAssassin23",
+  "champion": "Zed",
+  "kills": 12,
+  "deaths": 4,
+  "assists": 10,
+  "KillDeathPercent": 3
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3081"
+  },
+  "matchId": 5,
+  "date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "duration": "27:50",
+  "result": "Defeat",
+  "summonerName": "MysticMage77",
+  "champion": "Lux",
+  "kills": 4,
+  "deaths": 7,
+  "assists": 12,
+  "KillDeathPercent": 0.5714285714285714
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3082"
+  },
+  "matchId": 6,
+  "date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "duration": "23:40",
+  "result": "Victory",
+  "summonerName": "EternalVoyager",
+  "champion": "Ezreal",
+  "kills": 9,
+  "deaths": 3,
+  "assists": 11,
+  "KillDeathPercent": 3
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3083"
+  },
+  "matchId": 7,
+  "date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "duration": "31:10",
+  "result": "Defeat",
+  "summonerName": "SwiftShadowNinja",
+  "champion": "Akali",
+  "kills": 6,
+  "deaths": 9,
+  "assists": 5,
+  "KillDeathPercent": 0.6666666666666666
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3084"
+  },
+  "matchId": 8,
+  "date": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "duration": "26:55",
+  "result": "Victory",
+  "summonerName": "ArcticArcher",
+  "champion": "Ashe",
+  "kills": 11,
+  "deaths": 5,
+  "assists": 9,
+  "KillDeathPercent": 2.2
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3085"
+  },
+  "matchId": 9,
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "duration": "29:20",
+  "result": "Defeat",
+  "summonerName": "SoulStealer99",
+  "champion": "Jinx",
+  "kills": 8,
+  "deaths": 6,
+  "assists": 7,
+  "KillDeathPercent": 1.3333333333333333
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3086"
+  },
+  "matchId": 10,
+  "date": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "duration": "24:30",
+  "result": "Victory",
+  "summonerName": "DragonKnight55",
+  "champion": "Lee Sin",
+  "kills": 3,
+  "deaths": 0,
+  "assists": 14,
+  "KillDeathPercent": 3
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3087"
+  },
+  "matchId": 11,
+  "date": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "duration": "27:20",
+  "result": "Victory",
+  "summonerName": "FrostQueen97",
+  "champion": "Ahri",
+  "kills": 8,
+  "deaths": 1,
+  "assists": 10,
+  "KillDeathPercent": 8
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3088"
+  },
+  "matchId": 12,
+  "date": {
+    "$date": "2023-09-25T00:00:00.000Z"
+  },
+  "duration": "33:15",
+  "result": "Defeat",
+  "summonerName": "NinjaAssassin23",
+  "champion": "Zed",
+  "kills": 6,
+  "deaths": 5,
+  "assists": 8,
+  "KillDeathPercent": 1.2
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3089"
+  },
+  "matchId": 13,
+  "date": {
+    "$date": "2023-09-22T00:00:00.000Z"
+  },
+  "duration": "25:50",
+  "result": "Victory",
+  "summonerName": "SwiftShadowNinja",
+  "champion": "Akali",
+  "kills": 9,
+  "deaths": 3,
+  "assists": 12,
+  "KillDeathPercent": 3
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308a"
+  },
+  "matchId": 14,
+  "date": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  },
+  "duration": "29:35",
+  "result": "Defeat",
+  "summonerName": "StormBringer88",
+  "champion": "Darius",
+  "kills": 3,
+  "deaths": 9,
+  "assists": 4,
+  "KillDeathPercent": 0.3333333333333333
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308b"
+  },
+  "matchId": 15,
+  "date": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "duration": "26:40",
+  "result": "Victory",
+  "summonerName": "EternalVoyager",
+  "champion": "Ezreal",
+  "kills": 10,
+  "deaths": 2,
+  "assists": 9,
+  "KillDeathPercent": 5
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308c"
+  },
+  "matchId": 16,
+  "date": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "duration": "28:20",
+  "result": "Victory",
+  "summonerName": "MysticMage77",
+  "champion": "Lux",
+  "kills": 5,
+  "deaths": 0,
+  "assists": 14,
+  "KillDeathPercent": 5
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308d"
+  },
+  "matchId": 17,
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "duration": "24:45",
+  "result": "Defeat",
+  "summonerName": "EpicGamer123",
+  "champion": "Riven",
+  "kills": 6,
+  "deaths": 8,
+  "assists": 3,
+  "KillDeathPercent": 0.75
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308e"
+  },
+  "matchId": 18,
+  "date": {
+    "$date": "2023-09-10T00:00:00.000Z"
+  },
+  "duration": "30:30",
+  "result": "Victory",
+  "summonerName": "LegendaryPlayer",
+  "champion": "Katarina",
+  "kills": 12,
+  "deaths": 3,
+  "assists": 7,
+  "KillDeathPercent": 4
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e308f"
+  },
+  "matchId": 19,
+  "date": {
+    "$date": "2023-09-08T00:00:00.000Z"
+  },
+  "duration": "27:55",
+  "result": "Defeat",
+  "summonerName": "UltimateGamer",
+  "champion": "Garen",
+  "kills": 2,
+  "deaths": 7,
+  "assists": 5,
+  "KillDeathPercent": 0.2857142857142857
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3090"
+  },
+  "matchId": 20,
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "duration": "29:10",
+  "result": "Victory",
+  "summonerName": "MasterSupport",
+  "champion": "Thresh",
+  "kills": 1,
+  "deaths": 2,
+  "assists": 19,
+  "KillDeathPercent": 0.5
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3091"
+  },
+  "matchId": 21,
+  "date": {
+    "$date": "2023-09-03T00:00:00.000Z"
+  },
+  "duration": "22:25",
+  "result": "Defeat",
+  "summonerName": "ArcticArcher",
+  "champion": "Ashe",
+  "kills": 4,
+  "deaths": 4,
+  "assists": 6,
+  "KillDeathPercent": 1
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3092"
+  },
+  "matchId": 22,
+  "date": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "duration": "23:20",
+  "result": "Victory",
+  "summonerName": "SoulStealer99",
+  "champion": "Jinx",
+  "kills": 9,
+  "deaths": 1,
+  "assists": 8,
+  "KillDeathPercent": 9
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3093"
+  },
+  "matchId": 23,
+  "date": {
+    "$date": "2023-08-29T00:00:00.000Z"
+  },
+  "duration": "28:15",
+  "result": "Defeat",
+  "summonerName": "DragonKnight55",
+  "champion": "Lee Sin",
+  "kills": 5,
+  "deaths": 5,
+  "assists": 4,
+  "KillDeathPercent": 1
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3094"
+  },
+  "matchId": 24,
+  "date": {
+    "$date": "2023-08-27T00:00:00.000Z"
+  },
+  "duration": "31:05",
+  "result": "Victory",
+  "summonerName": "ShadowBladeMaster",
+  "champion": "Yasuo",
+  "kills": 10,
+  "deaths": 3,
+  "assists": 11,
+  "KillDeathPercent": 3.3333333333333335
+},
+{
+  "_id": {
+    "$oid": "65637a983179c288178e3095"
+  },
+  "matchId": 25,
+  "date": {
+    "$date": "2023-08-25T00:00:00.000Z"
+  },
+  "duration": "26:30",
+  "result": "Defeat",
+  "summonerName": "NinjaAssassin23",
+  "champion": "Zed",
+  "kills": 6,
+  "deaths": 6,
+  "assists": 9,
+  "KillDeathPercent": 1
+}]

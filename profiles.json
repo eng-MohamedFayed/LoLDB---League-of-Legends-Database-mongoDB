@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "656376263179c288178e3064"
+  },
+  "summonerName": "DragonKnight55",
+  "level": 55,
+  "server": "NA",
+  "mainChampion": "Lee Sin"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e3065"
+  },
+  "summonerName": "StormBringer88",
+  "level": 40,
+  "server": "EUW",
+  "mainChampion": "Darius"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e3066"
+  },
+  "summonerName": "MysticMage77",
+  "level": 200,
+  "server": "EUNE",
+  "mainChampion": "Lux"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e3067"
+  },
+  "summonerName": "EternalVoyager",
+  "level": 185,
+  "server": "NA",
+  "mainChampion": "Ezreal"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e3068"
+  },
+  "summonerName": "SwiftShadowNinja",
+  "level": 210,
+  "server": "EUW",
+  "mainChampion": "Akali"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e3069"
+  },
+  "summonerName": "ArcticArcher",
+  "level": 225,
+  "server": "EUNE",
+  "mainChampion": "Ashe"
+},
+{
+  "_id": {
+    "$oid": "656376263179c288178e306a"
+  },
+  "summonerName": "SoulStealer99",
+  "level": 43,
+  "server": "NA",
+  "mainChampion": "Jinx"
+},
+{
+  "_id": {
+    "$oid": "6563773f3179c288178e306b"
+  },
+  "summonerName": "FrostQueen97",
+  "level": 205,
+  "server": "NA",
+  "mainChampion": "Ahri"
+},
+{
+  "_id": {
+    "$oid": "6563773f3179c288178e306c"
+  },
+  "summonerName": "ShadowBladeMaster",
+  "level": 190,
+  "server": "EUW",
+  "mainChampion": "Yasuo"
+},
+{
+  "_id": {
+    "$oid": "6563773f3179c288178e306d"
+  },
+  "summonerName": "NinjaAssassin23",
+  "level": 195,
+  "server": "EUNE",
+  "mainChampion": "Zed"
+}]

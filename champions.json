@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "656378f63179c288178e306e"
+  },
+  "name": "Ahri",
+  "type": "Mage",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e306f"
+  },
+  "name": "Yasuo",
+  "type": "Fighter",
+  "difficulty": "Hard"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3070"
+  },
+  "name": "Zed",
+  "type": "Assassin",
+  "difficulty": "Hard"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3071"
+  },
+  "name": "Lee Sin",
+  "type": "Fighter",
+  "difficulty": "Difficult"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3072"
+  },
+  "name": "Darius",
+  "type": "Tank",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3073"
+  },
+  "name": "Lux",
+  "type": "Mage",
+  "difficulty": "Easy"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3074"
+  },
+  "name": "Ezreal",
+  "type": "Marksman",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3075"
+  },
+  "name": "Akali",
+  "type": "Assassin",
+  "difficulty": "Difficult"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3076"
+  },
+  "name": "Ashe",
+  "type": "Marksman",
+  "difficulty": "Easy"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3077"
+  },
+  "name": "Jinx",
+  "type": "Marksman",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3078"
+  },
+  "name": "Riven",
+  "type": "Fighter",
+  "difficulty": "Difficult"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e3079"
+  },
+  "name": "Katarina",
+  "type": "Assassin",
+  "difficulty": "Hard"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e307a"
+  },
+  "name": "Garen",
+  "type": "Tank",
+  "difficulty": "Easy"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e307b"
+  },
+  "name": "Thresh",
+  "type": "Support",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "656378f63179c288178e307c"
+  },
+  "name": "Orianna",
+  "type": "Mage",
+  "difficulty": "Moderate"
+},
+{
+  "_id": {
+    "$oid": "65645869369ca837bcae630d"
+  },
+  "name": "Wukong",
+  "type": "Fighter",
+  "difficulty": "Easy"
+}]
