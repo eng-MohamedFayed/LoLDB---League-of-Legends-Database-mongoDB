@@ -59,7 +59,8 @@ This project provides a Python script to interact with a MongoDB database contai
 7. Exit
 Enter your choice: 1
 Enter summoner name: FrostQueen97
-{ "_id": { "$oid": "65637a983179c288178e307d" }, "matchId": 1, "date": { "$date": "2023-11-01T00:00:00.000Z" }, "duration": "25:30", "result": "Victory", "summonerName": "FrostQueen97", "champion": "Ahri", "kills": 10, "deaths": 2, "assists": 15, "KillDeathPercent": 5 }
+{'_id': ObjectId('65637a983179c288178e307d'), 'matchId': 1, 'date': datetime.datetime(2023, 11, 1, 0, 0), 'duration': '25:30', 'result': 'Victory', 'summonerName': 'FrostQueen97', 'champion': 'Ahri', 'kills': 10, 'deaths': 2, 'assists': 15, 'KillDeathPercent': 5.0}
+{'_id': ObjectId('65637a983179c288178e3087'), 'matchId': 11, 'date': datetime.datetime(2023, 9, 28, 0, 0), 'duration': '27:20', 'result': 'Victory', 'summonerName': 'FrostQueen97', 'champion': 'Ahri', 'kills': 8, 'deaths': 1, 'assists': 10, 'KillDeathPercent': 8.0}
 ```
 
 ## Contribution
